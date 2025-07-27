@@ -1,16 +1,25 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3397F7&width=435&lines=Hi+there%2C+I'm+Abhay!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<!--
-**AbhayGaur61/Abhaygaur61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer building projects and learning new technologies.
 
-Here are some ideas to get you started:
+---
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayGaur61&theme=dark" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🔧 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,docker,git,js,html,css" />
+  </a>
+</p>
+
+---
+### 📫 How to Reach Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhaygaur61/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
