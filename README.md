@@ -2,11 +2,7 @@
 
 I'm a passionate developer building projects and learning new technologies.
 
----
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayGaur61&theme=dark" alt="GitHub Streak" />
-</p>
+
 
 ---
 ### 🔧 Tech Stack
